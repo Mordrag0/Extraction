@@ -1,4 +1,4 @@
-Extraction is a Dirty Bomb clone.
+Extraction is a Dirty Bomb clone made in Unreal engine.
 
 A team-based, objective-focused first-person shooter. Two teams of mercenaries - Attackers and Defenders - clash across a series of sequential objectives: escorting payloads, arming explosives, carrying deliverables, with Attackers pushing forward and Defenders holding the line.
 It is played on a dedicated server.
